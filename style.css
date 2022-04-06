@@ -5,12 +5,28 @@ h2{
 }
 
 .top{
-    background-color:#0af5c5;
+    background-color:#adf9ea;
 }
 
 .profile{
-    background-color:#56f1a6;
+    background-color:#93e9d8;
 }
 .hobbies{
-    background-color:#a1f156;
+    background-color:#adf9ea;
+}
+.skills{
+    background-color:#93e9d8;
+}
+
+#space{
+    padding-right:100px;
+    
+}
+
+#map{
+    background-color:#93e9d8;
+}
+
+#end{
+    background-color:#adf9ea;
 }
